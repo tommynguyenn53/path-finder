@@ -2,13 +2,15 @@
 
 A terminal-based pathfinding visualizer built with Python and the `curses` library. This project demonstrates the **Breadth-First Search (BFS)** algorithm to find the shortest path in a maze, with live animation directly in the terminal.
 
-## Live Demo
-To run the visualizer, execute the following in your terminal:
+## Demo
 
+To run the visualizer locally, follow these steps:
 
-```bash
-python3 path-finder.py
-```
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
+
 
 ## Features
 - **BFS Pathfinding**: Implements the Breadth-First Search algorithm to find the shortest path from a start to an end point.
