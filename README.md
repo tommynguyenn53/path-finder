@@ -8,8 +8,10 @@ To run the visualizer locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/tommynguyenn53/path-finder.git
+   cd path-finder
+   python3 path-finder.py
+
 
 
 ## Features
