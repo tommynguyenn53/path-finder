@@ -6,13 +6,11 @@ A terminal-based pathfinding visualizer built with Python and the `curses` libra
 
 To run the visualizer locally, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the repository and run code**:
    ```bash
    git clone https://github.com/tommynguyenn53/path-finder.git
    cd path-finder
    python3 path-finder.py
-
-
 
 ## Features
 - **BFS Pathfinding**: Implements the Breadth-First Search algorithm to find the shortest path from a start to an end point.
